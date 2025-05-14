@@ -3,3 +3,7 @@
 ## install 
 
 to better performance
+
+```bash
+npm install
+```
